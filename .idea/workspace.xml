@@ -2,8 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="7a35ca8a-513a-4100-b5f5-03c247b2032b" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/InterfaceSegregation.php" beforeDir="false" afterPath="$PROJECT_DIR$/InterfaceSegregation.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/SingleExample2.php" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -45,11 +44,22 @@
       <workItem from="1604909379454" duration="3307000" />
       <workItem from="1604926967587" duration="655000" />
       <workItem from="1605539171666" duration="14000" />
-      <workItem from="1609861998480" duration="598000" />
+      <workItem from="1609861998480" duration="695000" />
     </task>
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
   </component>
 </project>

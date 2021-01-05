@@ -24,7 +24,7 @@
   <component name="PropertiesComponent">
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../assignment/payment.php" />
     <property name="node.js.detected.package.eslint" value="true" />
     <property name="node.js.detected.package.tslint" value="true" />
     <property name="node.js.path.for.package.eslint" value="project" />
@@ -42,7 +42,10 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1604909376726</updated>
-      <workItem from="1604909379454" duration="2653000" />
+      <workItem from="1604909379454" duration="3307000" />
+      <workItem from="1604926967587" duration="655000" />
+      <workItem from="1605539171666" duration="14000" />
+      <workItem from="1609861998480" duration="188000" />
     </task>
     <servers />
   </component>
